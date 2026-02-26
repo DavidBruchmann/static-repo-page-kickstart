@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkwebsite=globalThis.webpackChunkwebsite||[]).push([[1903],{1912(t){t.exports=JSON.parse('{"blogBasePath":"/static-repo-page-kickstart/blog","blogTitle":"Blog","authorsListPath":"/static-repo-page-kickstart/blog/authors"}')}}]);
